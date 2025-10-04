@@ -1,0 +1,10 @@
+{
+    "mode": "clean",
+    "commands": [
+        {
+            "type": "download",
+            "url": "https://raw.githubusercontent.com/example/example/main/test.txt",
+            "path": "/tmp"
+        }
+    ]
+}
